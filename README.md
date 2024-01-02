@@ -1,3 +1,3 @@
 # Imagick-
 Wonders of GUI by Mr Frank
-<th><img src="https://github.com/MrFr3nk/Imagick-/blob/main/wp10229083.jpg" width="50%" height="50%"></th>
+<th><img src="PhotoCollage_1704163407014.jpg" width="50%" height="50%"></th>
